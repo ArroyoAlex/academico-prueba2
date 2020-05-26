@@ -12,6 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Menú Principal</h1>
+        1. Portal del alumno <br>
+        2. Aula Virtual <br>
     </body>
 </html>
